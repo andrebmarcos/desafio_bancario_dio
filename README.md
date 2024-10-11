@@ -23,8 +23,6 @@ Agradeço a todos que me apoiaram e contrinuiram para chegar no resultado espera
 
 ## ✉ CONTATO
 
-- ✉ Email: [andrebmarcos@gmail.com](andrebmarcos@gmail.com)
-
 [![EMAIL](https://img.shields.io/badge/EMAIL-00b51c?style=for-the-badge&logo=&logoColor=white)](andrebmarcos@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrebmarcos/)
